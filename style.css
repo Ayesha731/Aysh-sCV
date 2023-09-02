@@ -3,7 +3,10 @@
     --primary-color: darkorange;
     --secondary-color: rgb(24, 23, 23);
 }
-
+*{
+    margin: 0;
+    padding: 0;
+}
 body {
     margin: 50px;
     padding: 10px;
